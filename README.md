@@ -64,9 +64,4 @@ I’m passionate about building intelligent systems at the intersection of **Com
 
 ---
 
-## ✨ Fun Add-ons
-
-![Snake animation](https://github.com/SaakshiMV/SaakshiMV/blob/output/github-contribution-grid-snake.svg)
----
-
 ⭐ *“Learning by building, understanding by first principles.”*
